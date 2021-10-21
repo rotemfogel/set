@@ -1,4 +1,6 @@
-package me.rotemfo.set
+package me.rotemfo.set.game
+
+import me.rotemfo.set.model._
 
 import scala.collection.mutable
 import scala.util.Random
